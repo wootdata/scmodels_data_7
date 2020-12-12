@@ -1,1 +1,1 @@
-{"tri_count": "712", "events": [{"frame": "9", "seq": "9", "file": "common/npc_step1.wav"}, {"frame": "18", "seq": "9", "file": "common/npc_step3.wav"}], "seq_groups": 1}
+{"seq_groups": 1, "events": [{"frame": "9", "seq": "4", "file": "common/npc_step1.wav"}, {"frame": "18", "seq": "4", "file": "common/npc_step3.wav"}], "tri_count": "712", "hash": "5a070f406ecb7634c29524a24f1d9c2b"}
