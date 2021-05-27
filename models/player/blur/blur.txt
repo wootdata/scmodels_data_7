@@ -1,0 +1,11 @@
+Put the files in a directory called "Blur" in 
+your models/player directory.
+
+I made this model in 2 hours.
+
+If you have any comments, just mail them to:
+macey@teleport.com
+
+Macey AKA TubMaster-[UFO]
+
+		-SEA YA

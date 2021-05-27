@@ -1,0 +1,26 @@
+From: Steve Theodore <stevet@valvesoftware.com>
+To: "'news@planethalflife.com'" <news@planethalflife.com>
+Subject: happy holidays
+Date: Tue, 22 Dec 1998 20:34:07 -0800
+
+I whipped this up in about three hours this afternoon -- it's not too
+fancy but that's what you get for free ;).  Tell people who download it
+that there's no selector bitmap -- they can choose the model from
+console though, by typing "model santa" .  There aren't any remap colors
+on this model --  but this time of year we're used to seeing a santa on
+every corner.  If people want to make their own bitmaps, just call it
+"santa.bmp" and put it in the appropriate folder.
+
+ 
+Happy holidays from me & Valve to the community. Please pass this around
+to relevant sites!
+
+-Steve
+
+PS. model is my (c) 1998.   Free for entertainment use, no paid
+distribution without permission -- you know the drill...
+
+PPS for those who don't know, you can look at models in a single player
+map with the console -- turn on "developer 1" and "thirdperson" (turning
+it off again is "firstperson").  Cam_idealyaw and cam_idealdist will
+control the camera's position.

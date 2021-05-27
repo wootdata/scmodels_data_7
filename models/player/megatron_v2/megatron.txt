@@ -1,0 +1,45 @@
+
+megatron.txt			19:27 27DEC99
+
+This model is based on "Megatron", the Decpticon leader of the original TransFormers cartoon. It's also a re-release of my first Megatron model, the purpose of which is to address some problems in the original.
+
+WHAT'S BEEN FIXED:
+'Megatron' has undergone a general tweaking.
+1) The original 'Megatron' didn't actually appear to "hold" the weapons in-game because I'd built the mesh 
+too far away from the hand bones.
+2) Due to the way 'Megatron's chest was built, in some poses he'd open up at the collar bone.
+3) 'Megatron' has been smoothed to eliminate the boxiness of 'Megatron'.
+4) 'Megatron' has been optimized. I managed to do away with 76 polys, without detracting from 
+the model in the least.
+
+WHAT'S NEW:
+1) After months of practice with Paintshop Pro 6, I've given this new 'Megatron' a better skin.  Granted, I'm no Bamphalas, but they're getting better.
+
+Come and see what other models I've made at:
+
+http://underworld.fortunecity.com/galaxian/688/
+
+MODEL INFO:
+Created with Chumbalum Soft's Milkshape 3D v1.0c
+#vertices:     428
+#triangles:    756
+#groups:      2
+#bones:       22
+#materials:   2
+sgroups:       1
+
+"Megatron"; "Decepticons"; and "TransFormers" are all trademarks of Hasbro.
+
+To use this model for Half-Life simply open the .zip file. Click through the folders until you find one named, "megatron".  Cut this folder, and paste it into:
+...\Half-Life\valve\models\player\...
+The Decepticon spraypaints (decepticonlogo-1b.bmp & decepticonshield-1a.bmp) should be cut from MY
+logos folder, then pasted into:
+...\Half-Life\logos
+This model has NO team color capability. If the colors in the preview pic change, don't worry. They WON'T change in-game.
+You are more than welcome to distribute this model, so long as you don't CHARGE A FEE FOR IT!
+Also, be sure to give Mann Slaughter credit for the original.
+Have Fun!
+
+Mann Slaughter
+"Let's DO this!"
+mann_slaughter@usa.net
