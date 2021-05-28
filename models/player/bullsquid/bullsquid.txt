@@ -1,0 +1,5 @@
+BullSquid
+
+Modified and converted to work as XDM player model
+For X-Half-Life: Deathmatch 3.0.x.x
+Please do not redistribute separately.

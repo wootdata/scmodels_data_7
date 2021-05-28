@@ -1,0 +1,59 @@
+
+			Scouttrooper from Star Wars
+
+
+And I made it again.
+
+This is my third model. 
+
+Hmmm... I thought this will be a good model. Well it's not bad, but I think my Stormtrooper is better. 
+
+A little problem: I not covered the arms end. You are able to see if you take a close look. But it's not terribly noticeable during play.  
+'Why' you questioned. Because the facecount is now 900. I'm not going to grow it. It's pretty.
+ 
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Model Info:
+             
+Author        : H-ee "Agi" The DDD
+Vertices      : 636
+Triangles     : 900
+Joints        : 40
+Built time    : About a week (2-4 hour a day)
+Animations    : Valve
+Programs Used : MilkShape 3D 1.1.0 Beta5, Photoshop 5.0, 
+                Half-Life Model Viewer v1.24 
+Known Bugs    : Not known... or see before
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Installation :
+
+Just copy the Scouttroop_Agi.mdl and Scouttroop_Agi.bmp into the Scouttroop_Agi folder
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Thanx to : 
+
+Valve for making this peak game Half-Life
+
+Scarecrow at ColdFusion for the tutorials. Without these I never start to make a model. 
+
+Music Instructor, and all the creators of the soundtrack of the Matrix these played when I created the model.
+
+Chumbalum Soft for MilkShape 3D, and the Model viewer.
+
+The creators of The Jumbot.
+
+The Wachowski Brothers for the Matrix, because if I was tired I saw a few minutes from it.
+
+Special thanks to George Lucas for Star Wars.
+
+//////////---------------------------------------------------------\\\\\\\\\\
+
+Please feel free to distribute these files, but do not delete this file.
+If you wanna contact me:
+
+E-Mail : agi_f@umszki.hu
+
+						H-ee "Agi" The DDD

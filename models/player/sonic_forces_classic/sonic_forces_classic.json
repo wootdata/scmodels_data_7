@@ -1,0 +1,1 @@
+{"seq_groups": 1, "hash": "b45fb5adb4dc3b70459755f520ae73d9", "tri_count": "2181", "events": [{"seq": "8", "frame": "1", "file": "player/playersounds/tails/newjump.wav"}, {"seq": "8", "frame": "30", "file": "player/playersounds/tails/drop1.wav"}, {"seq": "9", "frame": "1", "file": "player/playersounds/tails/longjump2.wav"}]}
