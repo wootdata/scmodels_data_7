@@ -1,1 +1,1 @@
-{"events": [{"file": "common/npc_step1.wav", "frame": "9", "seq": "4"}, {"file": "common/npc_step3.wav", "frame": "18", "seq": "4"}], "tri_count": "712", "hash": "5a070f406ecb7634c29524a24f1d9c2b", "seq_groups": 1}
+{"seq_groups": 1, "hash": "5a070f406ecb7634c29524a24f1d9c2b", "tri_count": "712", "events": [{"seq": "4", "frame": "9", "file": "common/npc_step1.wav"}, {"seq": "4", "frame": "18", "file": "common/npc_step3.wav"}]}
