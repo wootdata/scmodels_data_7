@@ -1,1 +1,1412 @@
-{"seq_groups": 1, "hash": "5d17c6a1aad79e75f4bb58bdcb20cff1", "tri_count": "3164"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "Tor_reference_max7",
+					"polys": 2704,
+					"verts": 1454
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "Tor_Staff",
+					"polys": 460,
+					"verts": 271
+				}
+			],
+			"name": "staff"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 2,
+			"end": 30.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 3,
+			"end": 30.000000,
+			"index": 1,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}, 
+		{
+			"bone": 4,
+			"end": 30.000000,
+			"index": 2,
+			"rest": 0,
+			"start": -30.000000,
+			"type": 8
+		}
+	],
+	"events": [],
+	"id": 1414743113,
+	"md5": "5d17c6a1aad79e75f4bb58bdcb20cff1",
+	"name": "TorFriendlySHIT.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 165,
+			"name": "idle"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 91,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 101,
+			"name": "idle3"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 24,
+			"name": "run"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 33,
+			"name": "walk"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 3,
+			"name": "attack_idle"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 33,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 165,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 24,
+			"name": "run"
+		}, 
+		{
+			"fps": 24.000000,
+			"frames": 33,
+			"name": "walk"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 91,
+			"name": "idle2"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 101,
+			"name": "death_simple"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 41,
+			"name": "death_head"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 41,
+			"name": "death_head"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 101,
+			"name": "death_forward"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 41,
+			"name": "death_head"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 41,
+			"name": "death_head"
+		}, 
+		{
+			"fps": 45.000000,
+			"frames": 101,
+			"name": "death_simple"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "flinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 165,
+			"name": "idle"
+		}, 
+		{
+			"fps": 44.000000,
+			"frames": 50,
+			"name": "attack_melee1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "flinch_low"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 165,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 44.000000,
+			"frames": 50,
+			"name": "attack_melee1_low"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 15,
+			"name": "attack_melee2_cock"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_melee2_hold"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 36,
+			"name": "attack_melee2_shoot"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 15,
+			"name": "attack_melee2_cock_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_melee2_hold_low"
+		}, 
+		{
+			"fps": 40.000000,
+			"frames": 36,
+			"name": "attack_melee2_shoot_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "flinch"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 165,
+			"name": "idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "flinch_low"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 165,
+			"name": "idle_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "attack_charge_low"
+		}, 
+		{
+			"fps": 2.000000,
+			"frames": 2,
+			"name": "attack_hold_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 33,
+			"name": "attack_projec_low"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 51,
+			"name": "slam_low"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 5
+		}, 
+		{
+			"name": "b_EyeBrow Top Left",
+			"parent": 6
+		}, 
+		{
+			"name": "b_EyeBrow Top Right",
+			"parent": 6
+		}, 
+		{
+			"name": "b_EyeBrow Bottom Middle",
+			"parent": 6
+		}, 
+		{
+			"name": "b_EyeBrow Bottom Left",
+			"parent": 6
+		}, 
+		{
+			"name": "b_EyeBrow Bottom Right",
+			"parent": 6
+		}, 
+		{
+			"name": "b_EyeBrow Top Middle",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_01",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_10",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_09",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_08",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_07",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_06",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_05",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_04",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_03",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Pupil_02",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Teeth Back Right",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Teeth Front Right",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Teeth Front Left",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Teeth Back Left",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Face Eyeball",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Face Eyelid Top",
+			"parent": 6
+		}, 
+		{
+			"name": "b_Face Eyelid Bottom",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 31
+		}, 
+		{
+			"name": "TorSkel L Hand",
+			"parent": 32
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 34
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 36
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 L Finger2",
+			"parent": 33
+		}, 
+		{
+			"name": "Bip01 L Finger21",
+			"parent": 39
+		}, 
+		{
+			"name": "Bip01 L Finger22",
+			"parent": 40
+		}, 
+		{
+			"name": "b_left_ElbowOuter",
+			"parent": 31
+		}, 
+		{
+			"name": "b_left_ElbowInner",
+			"parent": 31
+		}, 
+		{
+			"name": "b_left_ShoulderTop",
+			"parent": 30
+		}, 
+		{
+			"name": "b_left_ShoulderBottom",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 46
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 47
+		}, 
+		{
+			"name": "TorSkel R Hand",
+			"parent": 48
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 50
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 52
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 53
+		}, 
+		{
+			"name": "Bip01 R Finger2",
+			"parent": 49
+		}, 
+		{
+			"name": "Bip01 R Finger21",
+			"parent": 55
+		}, 
+		{
+			"name": "Bip01 R Finger22",
+			"parent": 56
+		}, 
+		{
+			"name": "b_right_ElbowInner",
+			"parent": 47
+		}, 
+		{
+			"name": "b_right_ElbowOutter",
+			"parent": 47
+		}, 
+		{
+			"name": "b_right_ShoulderBottom",
+			"parent": 46
+		}, 
+		{
+			"name": "b_right_ShoulderTop",
+			"parent": 46
+		}, 
+		{
+			"name": "Bip01 Tail",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Tail1",
+			"parent": 62
+		}, 
+		{
+			"name": "Bip01 Tail2",
+			"parent": 63
+		}, 
+		{
+			"name": "TorSkel M UpperArm",
+			"parent": 2
+		}, 
+		{
+			"name": "TorSkel M Forearm",
+			"parent": 65
+		}, 
+		{
+			"name": "TorSkel M Hand",
+			"parent": 66
+		}, 
+		{
+			"name": "TorSkel M Finger2 a",
+			"parent": 67
+		}, 
+		{
+			"name": "TorSkel M Finger2 b",
+			"parent": 68
+		}, 
+		{
+			"name": "TorSkel M Finger2 c",
+			"parent": 69
+		}, 
+		{
+			"name": "TorSkel M Finger1 a",
+			"parent": 67
+		}, 
+		{
+			"name": "TorSkel M Finger1 b",
+			"parent": 71
+		}, 
+		{
+			"name": "TorSkel M Finger1 c",
+			"parent": 72
+		}, 
+		{
+			"name": "TorSkel M Thumb a",
+			"parent": 67
+		}, 
+		{
+			"name": "TorSkel M Thumb b",
+			"parent": 74
+		}, 
+		{
+			"name": "TorSkel M Thumb c",
+			"parent": 75
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 77
+		}, 
+		{
+			"name": "Bip01 L HorseLink",
+			"parent": 78
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 79
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 80
+		}, 
+		{
+			"name": "Bip01 L Toe1",
+			"parent": 80
+		}, 
+		{
+			"name": "Bip01 L Toe2",
+			"parent": 80
+		}, 
+		{
+			"name": "b_left_HorselinkFront",
+			"parent": 78
+		}, 
+		{
+			"name": "b_left_KneeFront",
+			"parent": 77
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 86
+		}, 
+		{
+			"name": "Bip01 R HorseLink",
+			"parent": 87
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 88
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 89
+		}, 
+		{
+			"name": "Bip01 R Toe1",
+			"parent": 89
+		}, 
+		{
+			"name": "Bip01 R Toe2",
+			"parent": 89
+		}, 
+		{
+			"name": "b_right_HorselinkFront",
+			"parent": 87
+		}, 
+		{
+			"name": "b_right_KneeFront",
+			"parent": 86
+		}, 
+		{
+			"name": "Cylinder02",
+			"parent": 49
+		}, 
+		{
+			"name": "Cylinder03",
+			"parent": 95
+		}, 
+		{
+			"name": "Dummy01",
+			"parent": 95
+		}, 
+		{
+			"name": "Dummy02",
+			"parent": 97
+		}, 
+		{
+			"name": "Box05",
+			"parent": 98
+		}, 
+		{
+			"name": "Box02",
+			"parent": 98
+		}, 
+		{
+			"name": "Box01",
+			"parent": 98
+		}, 
+		{
+			"name": "Box08",
+			"parent": 98
+		}, 
+		{
+			"name": "Box07",
+			"parent": 98
+		}, 
+		{
+			"name": "Box03",
+			"parent": 98
+		}, 
+		{
+			"name": "Box04",
+			"parent": 98
+		}, 
+		{
+			"name": "Box06",
+			"parent": 98
+		}, 
+		{
+			"name": "Cylinder01",
+			"parent": 98
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 508,
+			"name": "TorSkin.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 32,
+			"height": 36,
+			"name": "eye_specular.bmp",
+			"width": 52
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "BX_Chrome1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 319,
+			"name": "text.bmp",
+			"width": 60
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "greenchrome.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

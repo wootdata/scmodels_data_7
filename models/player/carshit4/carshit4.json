@@ -1,1 +1,87 @@
-{"seq_groups": 1, "hash": "0dc88dbb00017c990ed19c5e3927fa00", "tri_count": "687"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "5ton_ref",
+					"polys": 687,
+					"verts": 446
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "0dc88dbb00017c990ed19c5e3927fa00",
+	"name": "5ton.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 2,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Dummy05",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "tires.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "cab.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "side.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "top.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "bed.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "tarp.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "interior.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 32,
+			"height": 64,
+			"name": "glass.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

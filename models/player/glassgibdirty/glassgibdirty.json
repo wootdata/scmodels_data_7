@@ -1,1 +1,84 @@
-{"seq_groups": 1, "hash": "f29171ef81e683c683cfc5c54940a3ca", "tri_count": "72"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "shard1",
+					"polys": 8,
+					"verts": 6
+				}, 
+				{
+					"name": "shard2",
+					"polys": 4,
+					"verts": 4
+				}, 
+				{
+					"name": "shard3",
+					"polys": 8,
+					"verts": 6
+				}, 
+				{
+					"name": "shard4",
+					"polys": 8,
+					"verts": 6
+				}, 
+				{
+					"name": "shard5",
+					"polys": 4,
+					"verts": 4
+				}, 
+				{
+					"name": "shard6",
+					"polys": 4,
+					"verts": 4
+				}, 
+				{
+					"name": "shard7",
+					"polys": 36,
+					"verts": 20
+				}, 
+				{
+					"name": "shard8",
+					"polys": 0,
+					"verts": 0
+				}
+			],
+			"name": "parts"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "f29171ef81e683c683cfc5c54940a3ca",
+	"name": "valve/models/glassgibs.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Box01",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "chome_glass.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}
