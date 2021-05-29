@@ -371,6 +371,7 @@
 			"name": "crouch_shoot_shock"
 		}
 	],
+	"size": 412824,
 	"skeleton": [
 		{
 			"name": "Bip01",
