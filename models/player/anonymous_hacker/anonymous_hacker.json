@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 14,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 16,
+			"bone": 13,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "DM_LegArm",
-					"polys": 120,
-					"verts": 73
+					"name": "anonymous_hacker_torso_ref",
+					"polys": 1371,
+					"verts": 649
 				}
 			],
 			"name": "body"
@@ -35,9 +35,9 @@
 		{
 			"models": [
 				{
-					"name": "DM_ShoesHands",
-					"polys": 1366,
-					"verts": 703
+					"name": "anonymous_hacker_head_ref",
+					"polys": 2340,
+					"verts": 1292
 				}
 			],
 			"name": "body"
@@ -45,9 +45,9 @@
 		{
 			"models": [
 				{
-					"name": "Pitusas",
-					"polys": 124,
-					"verts": 64
+					"name": "anonymous_hacker_legs_ref",
+					"polys": 726,
+					"verts": 369
 				}
 			],
 			"name": "body"
@@ -321,8 +321,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f8c6d2e2c3385a090c951e4e850078ab",
-	"name": "manaoscan.mdl",
+	"md5": "ba14cbce1708ef71290191b56af0cbd8",
+	"name": "anonymous_hacker.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1281,7 +1281,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1645040,
+	"size": 1495152,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,94 +1312,158 @@
 			"parent": 5
 		}, 
 		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 R Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 11
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
 			"parent": 6
 		}, 
 		{
+			"name": "Bip01 L Arm1",
+			"parent": 7
+		}, 
+		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 18
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 R Hand",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
 			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 31
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1073741827,
-			"height": 64,
-			"name": "remapD_160_191_233.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 1073741827,
-			"height": 64,
-			"name": "remapB_160_191_233.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 255,
-			"name": "glove.bmp",
-			"width": 508
-		}, 
-		{
 			"flags": 0,
 			"height": 256,
-			"name": "neoLeatherBoots.bmp",
+			"name": "coat-pants.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "boots-shirt.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "button_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "hands.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "head.bmp",
 			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 640,
-			"name": "rollton.bmp",
-			"width": 1024
+			"height": 64,
+			"name": "mouth.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "vmask.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

@@ -14,20 +14,15 @@
 			"bone": 20,
 			"name": "",
 			"type": 0
-		}, 
-		{
-			"bone": 16,
-			"name": "",
-			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "DM_LegArm",
-					"polys": 120,
-					"verts": 73
+					"name": "p1",
+					"polys": 3079,
+					"verts": 1641
 				}
 			],
 			"name": "body"
@@ -35,9 +30,9 @@
 		{
 			"models": [
 				{
-					"name": "DM_ShoesHands",
-					"polys": 1366,
-					"verts": 703
+					"name": "p2",
+					"polys": 2509,
+					"verts": 1291
 				}
 			],
 			"name": "body"
@@ -45,9 +40,29 @@
 		{
 			"models": [
 				{
-					"name": "Pitusas",
-					"polys": 124,
-					"verts": 64
+					"name": "p3",
+					"polys": 800,
+					"verts": 400
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p4",
+					"polys": 3018,
+					"verts": 1624
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p5",
+					"polys": 2700,
+					"verts": 1364
 				}
 			],
 			"name": "body"
@@ -321,8 +336,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "f8c6d2e2c3385a090c951e4e850078ab",
-	"name": "manaoscan.mdl",
+	"md5": "18b660512c4981948c10dddc545cec1a",
+	"name": "merino.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1281,7 +1296,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1645040,
+	"size": 2140612,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,44 +1327,8 @@
 			"parent": 5
 		}, 
 		{
-			"name": "Bip01 L Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 L Leg1",
-			"parent": 7
-		}, 
-		{
-			"name": "Bip01 L Foot",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 R Leg",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 R Leg1",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Arm",
+			"name": "Bip01 Head",
 			"parent": 6
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -1357,49 +1336,83 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Leg",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Leg1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Foot",
 			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 19
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 13
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 1073741827,
-			"height": 64,
-			"name": "remapD_160_191_233.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 1073741827,
-			"height": 64,
-			"name": "remapB_160_191_233.bmp",
-			"width": 64
+			"flags": 0,
+			"height": 512,
+			"name": "piel.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 255,
-			"name": "glove.bmp",
-			"width": 508
+			"height": 512,
+			"name": "terno.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "neoLeatherBoots.bmp",
-			"width": 256
+			"height": 512,
+			"name": "pantalon.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 640,
-			"name": "rollton.bmp",
-			"width": 1024
+			"height": 512,
+			"name": "zapatos.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

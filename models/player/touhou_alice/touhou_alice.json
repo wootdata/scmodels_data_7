@@ -25,7 +25,7 @@
 		{
 			"models": [
 				{
-					"name": "body1",
+					"name": "touhou_alice_body1",
 					"polys": 380,
 					"verts": 230
 				}
@@ -35,7 +35,7 @@
 		{
 			"models": [
 				{
-					"name": "body2",
+					"name": "touhou_alice_body2",
 					"polys": 1106,
 					"verts": 589
 				}
@@ -45,7 +45,7 @@
 		{
 			"models": [
 				{
-					"name": "face",
+					"name": "touhou_alice_face",
 					"polys": 962,
 					"verts": 524
 				}
@@ -55,7 +55,7 @@
 		{
 			"models": [
 				{
-					"name": "amm",
+					"name": "touhou_alice_amm",
 					"polys": 1262,
 					"verts": 660
 				}
@@ -65,7 +65,7 @@
 		{
 			"models": [
 				{
-					"name": "head",
+					"name": "touhou_alice_head",
 					"polys": 1798,
 					"verts": 1031
 				}
@@ -75,7 +75,7 @@
 		{
 			"models": [
 				{
-					"name": "leg",
+					"name": "touhou_alice_leg",
 					"polys": 664,
 					"verts": 440
 				}
@@ -196,44 +196,44 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -351,7 +351,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "8d7ab3942238168f18ee0276d0d0e897",
+	"md5": "9099e6b63d23e2bca87690eab8df3c86",
 	"name": "robo.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1264,9 +1264,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1405800,
+	"size": 1467648,
 	"skeleton": [
 		{
 			"name": "Bip01",

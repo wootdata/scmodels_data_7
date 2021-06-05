@@ -36,8 +36,8 @@
 			"models": [
 				{
 					"name": "SC_betty_head_ref",
-					"polys": 772,
-					"verts": 421
+					"polys": 1317,
+					"verts": 650
 				}
 			],
 			"name": "helmet"
@@ -56,8 +56,8 @@
 			"models": [
 				{
 					"name": "SC_betty_lights_ref",
-					"polys": 640,
-					"verts": 365
+					"polys": 3127,
+					"verts": 1606
 				}
 			],
 			"name": "gear"
@@ -97,7 +97,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 34,
+			"bone": 31,
 			"end": 15.000000,
 			"index": 4,
 			"rest": 0,
@@ -339,7 +339,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "cca88daf5c4e5c745fb1edbecca5f746",
+	"md5": "de6b01dd33d29021c7d45d8409d30c10",
 	"name": "sc_betty2.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1299,7 +1299,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2020020,
+	"size": 2663132,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1414,18 +1414,6 @@
 			"parent": 6
 		}, 
 		{
-			"name": "R_eyebrow",
-			"parent": 27
-		}, 
-		{
-			"name": "C_eyebrow",
-			"parent": 27
-		}, 
-		{
-			"name": "L_eyebrow",
-			"parent": 27
-		}, 
-		{
 			"name": "R_eye",
 			"parent": 27
 		}, 
@@ -1447,11 +1435,11 @@
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 35
+			"parent": 32
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 36
+			"parent": 33
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1459,11 +1447,11 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 38
+			"parent": 35
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 39
+			"parent": 36
 		}
 	],
 	"skins": 1,
@@ -1525,15 +1513,27 @@
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "Colette_hair.bmp",
-			"width": 128
+			"height": 265,
+			"name": "face4.bmp",
+			"width": 240
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "Colette_head.bmp",
-			"width": 256
+			"height": 185,
+			"name": "beckinsale4.bmp",
+			"width": 260
+		}, 
+		{
+			"flags": 0,
+			"height": 56,
+			"name": "eyeball.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 67,
+			"name": "teeth.bmp",
+			"width": 228
 		}, 
 		{
 			"flags": 0,
@@ -1542,13 +1542,25 @@
 			"width": 256
 		}, 
 		{
+			"flags": 0,
+			"height": 512,
+			"name": "Flashlight.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4,
+			"height": 512,
+			"name": "kense.bmp",
+			"width": 512
+		}, 
+		{
 			"flags": 3,
 			"height": 64,
 			"name": "led_base_chrome.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 35,
+			"flags": 7,
 			"height": 64,
 			"name": "led_cyellow_chrome.bmp",
 			"width": 64
@@ -1556,23 +1568,29 @@
 		{
 			"flags": 35,
 			"height": 64,
+			"name": "led_refl_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 7,
+			"height": 64,
 			"name": "led_cblue_chrome.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 35,
+			"flags": 7,
 			"height": 64,
 			"name": "led_cred_chrome.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 35,
+			"flags": 7,
 			"height": 64,
 			"name": "led_cgreen_chrome.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 35,
+			"flags": 7,
 			"height": 64,
 			"name": "led_corange_chrome.bmp",
 			"width": 64
