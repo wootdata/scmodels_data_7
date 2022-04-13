@@ -303,8 +303,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "1c7fb5228b77cad6e6acc62124f4c56a",
-	"name": "cs_ddh.mdl",
+	"md5": "c9f2fc605e16364cbb6327edc8ca06ef",
+	"name": "lqc.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1313,49 +1313,49 @@
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 65,
+			"flags": 64,
 			"height": 256,
 			"name": "lqcbody.bmp",
 			"width": 128
 		}, 
 		{
-			"flags": 65,
+			"flags": 64,
 			"height": 128,
 			"name": "lqctou.bmp",
 			"width": 128
 		}, 
 		{
-			"flags": 65,
+			"flags": 64,
 			"height": 96,
 			"name": "lqcarm.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 65,
+			"flags": 64,
 			"height": 64,
 			"name": "lqcarm2.bmp",
 			"width": 128
 		}, 
 		{
-			"flags": 65,
+			"flags": 64,
 			"height": 96,
 			"name": "lqchand.bmp",
 			"width": 96
 		}, 
 		{
-			"flags": 65,
+			"flags": 64,
 			"height": 128,
 			"name": "lqcleg.bmp",
 			"width": 96
 		}, 
 		{
-			"flags": 65,
+			"flags": 64,
 			"height": 128,
 			"name": "lqcleg2.bmp",
 			"width": 96
 		}, 
 		{
-			"flags": 65,
+			"flags": 64,
 			"height": 96,
 			"name": "lqcfoot.bmp",
 			"width": 96

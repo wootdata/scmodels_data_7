@@ -612,7 +612,7 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "099b0750f9e3c2561a1280e3fbbcc335",
+	"md5": "7329d29d2d8db0ababb13d5505cf1e07",
 	"name": "BRS_digitrevx.mdl",
 	"seq_groups": "1",
 	"sequences": [
@@ -1527,7 +1527,7 @@
 			"name": "Converted by Reiko/tap_chan"
 		}
 	],
-	"size": 3379652,
+	"size": 3378924,
 	"skeleton": [
 		{
 			"name": "Bip01",
