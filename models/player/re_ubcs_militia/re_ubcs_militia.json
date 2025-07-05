@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "5edb6d345f623c9399f911160858b588",
-	"name": "RE_UBCS_Militia.mdl",
+	"md5": "87d6e563651a29af83a7e171f2cd2bc7",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\modeD!",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1113444,
+	"size": 1122628,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,15 +1312,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 503,
+			"height": 512,
 			"name": "terror_body.bmp",
-			"width": 504
+			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 254,
 			"name": "militiahead3.bmp",
-			"width": 252
+			"width": 256
 		}
 	],
 	"version": 10
