@@ -1,0 +1,26 @@
+File Name          : scorpion_hl.zip
+Date               : October 2, 2000
+Author             : yxo
+E-mail             : neotropic@halflife.ru;
+Web Site           : http://www.halflife.ru/mdl/
+
+INSTALLATION AND USE
+--------------------------
+Unpack archive in directory Half-Life\valve\models\player\ by 
+the included option Use Folder Names in the program WinZip.
+
+
+-------------
+readme.rus
+------------
+Èìÿ ôàéëà          : scorpion_hl.zip
+Äàòà               : îêòÿáðü 2, 2000
+Àâòîð              : yxo
+E-mail             : neotropic@halflife.ru;
+Âåá ñàéò           : http://www.halflife.ru/mdl/
+
+
+ÈÍÑÒÀËßÖÈß
+--------------------------
+Ðàñïàêóéòå àðõèâ â directory Half-Life\valve\models\player\ ñ 
+âêëþ÷¸ííîé îïöèåé Use Folder Names â ïðîãðàììå WinZip.
