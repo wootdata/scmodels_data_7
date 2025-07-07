@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e98813228a753a17426d8e40bc822382",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\wjhol\\Pictures\\Milkshape Stuff\\Projects\\LSD Player Modet",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

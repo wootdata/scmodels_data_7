@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -271,7 +272,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1302a479c0bb4da2ee28ab5a4c7d5a61",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "zolene.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

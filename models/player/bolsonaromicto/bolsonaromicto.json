@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0fa4eca4a50794c95f8b1a9c162425ee",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bolsonaro.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

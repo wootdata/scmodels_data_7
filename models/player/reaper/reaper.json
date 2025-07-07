@@ -12,6 +12,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "593f0dcdac78d11b77f46b199a147c1d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "reaper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

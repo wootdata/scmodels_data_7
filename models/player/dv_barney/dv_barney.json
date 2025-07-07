@@ -33,6 +33,7 @@
 			"name": "torso"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2520118c8ef0f08d8026aeeee445451c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "DV_Barney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

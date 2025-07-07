@@ -113,6 +113,7 @@
 			"name": "GatiitoSC"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -446,7 +447,11 @@
 	],
 	"id": 1414743113,
 	"md5": "70801eaca0aee3988cff5da35965d2ad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Gatiito_Waffen.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

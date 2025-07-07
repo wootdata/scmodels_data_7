@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f2d09ea7e7f596fca99635997ea7370c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve\\models\\player\\Lobo\\lobo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

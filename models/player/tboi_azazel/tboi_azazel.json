@@ -63,6 +63,7 @@
 			"name": "hair"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -333,7 +334,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0d7c0361714a26b261ed47cfccf9f914",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TBOI_Azazel.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

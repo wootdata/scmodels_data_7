@@ -58,6 +58,7 @@
 			"name": "gorrito"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -853,7 +854,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e5f81662e0c46bdf09065b028143c90a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "robo_1337.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

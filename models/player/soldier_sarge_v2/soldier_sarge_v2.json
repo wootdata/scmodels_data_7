@@ -23,6 +23,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 27,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c2069b1328aea4817cad9583129a7c7e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_sarge.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

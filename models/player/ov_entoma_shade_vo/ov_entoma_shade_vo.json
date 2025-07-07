@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -877,7 +878,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4fa6e0aa17a6f1c34c88e51e3093f24e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "OV_Entoma_noflatshade.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

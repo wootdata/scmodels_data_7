@@ -83,6 +83,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -444,7 +445,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1e0cc6edd5655eb554fa8e31c584db82",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "csw2_admin.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

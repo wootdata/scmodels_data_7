@@ -208,6 +208,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -794,7 +795,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f10b733fc4d5dd8c2862a660f4b6b7aa",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "kancolle_shimakaze_v3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

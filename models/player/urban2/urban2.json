@@ -43,6 +43,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d1e9f260760542b1fc48b7f0ac4cddc6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "urban2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

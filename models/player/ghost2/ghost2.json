@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fc952b9d073833f55451329566773ef4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ghost.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

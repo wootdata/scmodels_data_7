@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -363,7 +364,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4c98a9272824bc1ab8d9b2f116cda7a3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "haydee.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

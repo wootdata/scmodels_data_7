@@ -53,6 +53,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5f7734b66aa03796b5aefaab82ccfbab",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "alexcono.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

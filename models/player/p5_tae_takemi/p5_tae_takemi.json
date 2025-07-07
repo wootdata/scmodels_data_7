@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -758,7 +759,11 @@
 	],
 	"id": 1414743113,
 	"md5": "39d8240e5b7626d79728808a6e4f65f8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "p5_tae_takemi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

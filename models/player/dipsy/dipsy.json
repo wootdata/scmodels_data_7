@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "029f90d032fa86283cd23fb80cbda487",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\vc\\teletubbies_sc4\\dipsy_sc4\\mdl\\dipsy_sc4.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "26f74c7c467a2bba9c7b73cdfc0fe43b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TheArm.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

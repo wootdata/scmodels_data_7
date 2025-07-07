@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "62f0787957d127241f55bee553f3be4b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cockroach.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -401,7 +402,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c1d6d798d79b36a09a6916baf20faa1d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "CJ.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -282,7 +283,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7d06eb8ab03d5b60e5a1826f85546a46",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "acr_angelina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

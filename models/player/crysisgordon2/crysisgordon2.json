@@ -113,6 +113,7 @@
 			"name": "CyborgNinja"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -383,7 +384,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4b7a873786b4b892e91513512f455aaf",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\svencoop modific\\crysis gordon 2\\Nano_suit\\CyborgNinja\\Cyborg",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

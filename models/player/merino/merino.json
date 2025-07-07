@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -338,7 +339,11 @@
 	],
 	"id": 1414743113,
 	"md5": "18b660512c4981948c10dddc545cec1a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "merino.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

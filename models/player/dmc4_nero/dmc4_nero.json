@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -353,7 +354,11 @@
 	],
 	"id": 1414743113,
 	"md5": "49e3f4f68b763306b89e350b5ef764b2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dmc_nero.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

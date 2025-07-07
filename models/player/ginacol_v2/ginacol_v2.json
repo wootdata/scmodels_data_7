@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 41,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4b648067cf6eb39e351c6b100deef8a0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ginacol.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

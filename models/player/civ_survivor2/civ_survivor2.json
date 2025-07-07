@@ -33,6 +33,7 @@
 			"name": "unm_barney"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f55912e257acfcc1e3cc3443f7ff09ca",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "civ_survivor2.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

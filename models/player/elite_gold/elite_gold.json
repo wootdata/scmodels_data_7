@@ -43,6 +43,7 @@
 			"name": "torso"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "77c32ce82035bc4b1b41b9faa61f3315",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Elite_gold.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

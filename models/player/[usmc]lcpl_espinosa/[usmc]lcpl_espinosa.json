@@ -58,6 +58,7 @@
 			"name": "Armour"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -384,7 +385,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e8dbbe98bd69575325609e59777a820b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "[USMC]LCpl_Espinosa.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

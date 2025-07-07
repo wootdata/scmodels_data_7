@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -324,7 +325,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5a070f406ecb7634c29524a24f1d9c2b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "uboashocker.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

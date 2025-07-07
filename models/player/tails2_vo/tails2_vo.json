@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -327,7 +328,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dfacc8c988e4e542edf90e0b191bc664",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tails2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

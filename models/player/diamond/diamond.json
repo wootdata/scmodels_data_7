@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -277,7 +278,11 @@
 	],
 	"id": 1414743113,
 	"md5": "095ced7d9d06336d01439b59b090862c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "girl.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

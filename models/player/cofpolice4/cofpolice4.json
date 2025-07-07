@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ebee6425e6d3d2bd8ff762017cab2a3b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cof_police1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -822,7 +823,11 @@
 	],
 	"id": 1414743113,
 	"md5": "12eabb4f2b079b1464db2cc9415d596a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shikanoko_noko.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "Sonic_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -464,7 +465,11 @@
 	],
 	"id": 1414743113,
 	"md5": "500abf7f2582831e2530092459f9c79d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "supersonic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

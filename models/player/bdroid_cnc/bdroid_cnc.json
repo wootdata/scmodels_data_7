@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c576d86ee35c58b2ddc50bdaa41145a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bdroid_CNC.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

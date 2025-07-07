@@ -38,6 +38,7 @@
 			"name": "nanosuit2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -308,7 +309,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f79381db3241259f95793bdf7447045f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tron2011r.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

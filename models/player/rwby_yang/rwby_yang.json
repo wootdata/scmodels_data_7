@@ -163,6 +163,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -433,7 +434,11 @@
 	],
 	"id": 1414743113,
 	"md5": "259604a22ff364ae61e712a02dc83aea",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RWBY_Yang.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

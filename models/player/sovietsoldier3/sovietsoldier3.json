@@ -188,6 +188,7 @@
 			"name": "gear"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -507,7 +508,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e90405efaaedd8ef5965312201dcf40c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sovietsoldier3.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

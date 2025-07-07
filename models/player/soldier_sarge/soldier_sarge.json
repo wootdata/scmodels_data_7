@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 27,
@@ -232,7 +233,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9c707acde3eedbbc9c7c6590521e1049",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Documents and Settings\\PCT\\Pulpit\\Nowy folder\\soldier_sargef\\D",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

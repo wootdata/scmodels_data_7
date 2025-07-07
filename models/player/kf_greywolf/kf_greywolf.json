@@ -103,6 +103,7 @@
 			"name": "By KZ-Sheez (Kazamii SC)"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -373,7 +374,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a3c555c99797a8f3aa4dca9b70a607c6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "By KZ-Sheez (Kazamii SC).mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

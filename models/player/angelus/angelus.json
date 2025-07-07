@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "82e01074faecbe0551e9fc811cf33d71",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Angelus.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

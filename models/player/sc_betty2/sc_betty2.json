@@ -63,6 +63,7 @@
 			"name": "gear"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -341,7 +342,11 @@
 	],
 	"id": 1414743113,
 	"md5": "de6b01dd33d29021c7d45d8409d30c10",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sc_betty2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

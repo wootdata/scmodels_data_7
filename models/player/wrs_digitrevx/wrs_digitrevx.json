@@ -182,6 +182,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -614,7 +615,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7329d29d2d8db0ababb13d5505cf1e07",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BRS_digitrevx.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

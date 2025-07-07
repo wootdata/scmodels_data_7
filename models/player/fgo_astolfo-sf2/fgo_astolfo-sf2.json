@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -778,7 +779,11 @@
 	],
 	"id": 1414743113,
 	"md5": "94cbe8b62a366d26ce9afeb2831e38d8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "FGO_Astolfo-SF2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

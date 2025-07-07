@@ -38,6 +38,7 @@
 			"name": "C4"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -266,7 +267,11 @@
 	],
 	"id": 1414743113,
 	"md5": "845f1de7899fec7eafe1a493a5bc9fa2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "arctic_terrorist.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

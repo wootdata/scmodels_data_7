@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "210b00a4c61ae90f514473f8436a41c3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Michigan.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

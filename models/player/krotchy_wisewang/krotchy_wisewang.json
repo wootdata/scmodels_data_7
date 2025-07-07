@@ -33,6 +33,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e7a650d1e5e6e0614899b534c1446456",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Krotchy_WiseWang.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

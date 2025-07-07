@@ -28,6 +28,7 @@
 			"name": "sweet_little_lies"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1573840752,
 	"events": [
@@ -265,7 +266,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ab21b0d70fee18ae259186fb3d4db2c1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cardboard_todd.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -238,6 +238,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -572,7 +573,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a0ef29982fa5c3192e91b5052b6aed58",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Lulumuu.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -796,7 +797,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9b496339d3ed2ae44cf7f054d1be5c14",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "afterlife_roboglow.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "winkler"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fc659392d86346ede77aa2d4e866753e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dino_rastishka.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

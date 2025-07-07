@@ -88,6 +88,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "27e53d6a7a574ed907a927006e20b459",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_Tenshi_40k.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

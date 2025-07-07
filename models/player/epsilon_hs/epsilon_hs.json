@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -328,7 +329,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fb35c620ed761fd2a67c35095e088f9a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HS_Psilon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

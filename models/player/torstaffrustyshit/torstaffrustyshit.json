@@ -22,6 +22,7 @@
 			"name": "staff"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -52,7 +53,11 @@
 	"events": [],
 	"id": 1414743113,
 	"md5": "5d17c6a1aad79e75f4bb58bdcb20cff1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TorFriendlySHIT.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

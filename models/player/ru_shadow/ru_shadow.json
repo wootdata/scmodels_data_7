@@ -33,6 +33,7 @@
 			"name": "shadow"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -366,7 +367,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b7e2c4bc9973ae63163d285e27869db1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "shadow.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

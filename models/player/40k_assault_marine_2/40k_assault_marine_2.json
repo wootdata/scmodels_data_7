@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 7,
@@ -375,7 +376,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4fdf132046aeb18a84b2d1fd1a5524f7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "40k_assault_marine_1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

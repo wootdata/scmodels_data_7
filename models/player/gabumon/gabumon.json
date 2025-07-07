@@ -58,6 +58,7 @@
 			"name": "Gabu2"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -336,7 +337,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0af3e801a42fe81bf082257bb11584b8",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gabumon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

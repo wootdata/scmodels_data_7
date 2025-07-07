@@ -83,6 +83,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -724,7 +725,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8611279d1a0534c61a8dab510c6a3f59",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BA_Aru.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

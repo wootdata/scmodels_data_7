@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "361272eeaf6ebd2e6bfdf014baa83c81",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "taskforce.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

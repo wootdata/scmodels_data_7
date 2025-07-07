@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 41,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "fa682ebb76e32e4f29ed31a28915cfb1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SpidermanHEV.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

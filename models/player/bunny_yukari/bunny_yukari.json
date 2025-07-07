@@ -233,6 +233,7 @@
 			"name": "mrbond123"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -503,7 +504,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e6e68a3a38d8c6b00c53f397d42fc078",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "yuzuki_yukari.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
