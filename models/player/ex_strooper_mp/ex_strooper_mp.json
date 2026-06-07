@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1050717388,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -131,6 +131,7 @@
 	"md5": "c4fb6b24b84c3a504dd7f507d0f793bb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "D:\\temp\\swarm\\01B2\\strooper_mp(1)\\strooper_mp.mdl",
 	"preview": true,
 	"readme": false,

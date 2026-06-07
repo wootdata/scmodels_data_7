@@ -1,0 +1,70 @@
+FFChocobo Reskins 
+by HANDCOCK=BEST MOVIE EVER!!!
+==============================
+6 Reskins of the FFChocobo (from FF7: Crisis Core) playermodel ported to Sven-Coop by NicholaiParadox.
+For a the standard Yellow Coloration the Top Color should be set to 35-39.
+
+If you want to make any changes or additions just credit NicholaiParadox for his original efforts in porting the model. No need to credit HANDC0CK.
+=========================================================================================================================================================
+------------------------------
+-FFChocobo_CC
+------------------------------
+Recompiled and Remap palette variant of original Crisis Core FFChocobo by NicholaiParadox.
+Fixed texture holes and overlaps.
+SoundFX from Final Fantasy 13 and a couple from FF7.
+Top Color: Feathers, Bottom Color: Beak
+------------------------------
+-FFChocobo_CC_Black
+------------------------------
+Very dark and Desaturated palette variant of the above. For color similar to the example the Top Color need to be moved over to the Blue colors.
+Top Color: Feathers, Bottom Color: Beak
+=========================================================================================================================================================
+------------------------------
+-FFChocobo_CC2
+------------------------------
+New base texture was AI Generated(Gemini) and heavily adjusted by hand.
+Eye for this skin is also AI generated. It was a placeholder for the FF7 style, but decided to keep the skin seperate.
+SoundFX ripped from Final Fantasy 14 and a couple from FF7.
+Top Color: Feathers, Bottom Color: Eye
+------------------------------
+-FFChocobo_CC2_Black
+------------------------------
+Darker palette variant of the above. For color similar to the example, the Top Color need to be moved over to the Blue colors.
+Top Color: Feathers, Bottom Color: Eye
+=========================================================================================================================================================
+------------------------------
+-FF7Chocobo_CC
+------------------------------
+New base texture was AI Generated and heavily adjusted by hand.
+Eye is from the official Final Fantasy 7 Tetsuo Nomura Art of a Chocobo and adjusted to fit the model.SoundFX ripped from Final Fantasy 7.
+SoundFX ripped from Final Fantasy 7.
+Top Color: Feathers, Bottom Color: Eye
+------------------------------
+-FF7Chocobo_CC_Black
+------------------------------
+Darker palette variant of the above. For color similar to the example, the Top Color need to be moved over to the Blue/Purple colors.
+Top Color: Feathers, Bottom Color: Eye
+=========================================================================================================================================================
+
+Skeleton is untouched, I no idea how change those currently!
+Anims are untouched except a fairly jank, manually edited(w/ NP++/Python scripts), spin to replace anim slot 181 which isn't accessible via normal means.
+
+=========================================================================================================================================================
+Fixing the Player Model Preview Color Remap
+-------------------------------------------
+Start with a size 160x200 (or 164x200) depending on where you look, @ 256 Index Color Mode (8bit).
+Pal# 160-191 = Bottom Color (Color 2)
+Pal# 192-223 = Top Color (Color 1)
+Saving in GraphicsGale or Gimp will not allow SvenCoop to apply the color remap to the preview image even if the 256 color palette is saved correctly. 
+I don't own Photoshop anymore so not sure of an alternative method for this, so we'll need to fix a line in a hex editor to make the remap magic happen for the preview image.
+We can use web-based hex editor, https://hexed.it/ 
+Drag your "model_name.bmp" file to the editor or just open in the file from the editor.
+
+The 3rd line is where I make changes, denoted by: "00000020", it may look like the following:
+"XX XX XX XX XX XX 00 00 00 00 00 00 00 00 00 00" where X = any hexadecimal from 0-F. 
+
+We need to change some of the 00 values such that it looks like the following:
+"XX XX XX XX XX XX 13 0B 00 00 13 0B 00 00 00 01" leave whatever was in the X values as they were.
+Now export the BMP file which will just download it. Make a back up of the original and try adding the newly modified one in. See if the preview works and remaps in SvenCoop.
+
+I have no idea why this happens, what the hexadecimal changes mean, or why changing that section to "13 0B 00 00 13 0B 00 00 00 01" fixes the pal remap. However I've been successful every time with this method to modify my saved bmp images from GraphicsGale.

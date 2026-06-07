@@ -166,7 +166,7 @@
 			"type": 32
 		}
 	],
-	"date": 1701344524,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 5004,
@@ -719,6 +719,7 @@
 	"md5": "4af4d0a9b2014da9934014729b9e057c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gi_kukishinobu_nm.mdl",
 	"preview": true,
 	"readme": false,

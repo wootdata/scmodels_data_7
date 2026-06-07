@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092279,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "79089cb82e69d3d00a24d05eae43156d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "timoteo.mdl",
 	"preview": true,
 	"readme": false,

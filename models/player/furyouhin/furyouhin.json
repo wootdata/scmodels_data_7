@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1316073214,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 1,
@@ -145,6 +145,7 @@
 	"md5": "03b777ddfe2290aad6a55d1b87d86896",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "shin.mdl",
 	"preview": false,
 	"readme": false,

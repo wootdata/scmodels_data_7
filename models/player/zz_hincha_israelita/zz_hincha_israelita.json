@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092280,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "3582948a3b10c060d9c4727d31d48de4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\Mis Documentos\\Kevin\\Games\\HL\\Skins\\1. EDITAR\\jesus_e2d78\\Jes",
 	"preview": true,
 	"readme": false,

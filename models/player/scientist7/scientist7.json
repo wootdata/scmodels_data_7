@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1472890197,
+	"date": 1780811526,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "6e5c34b9cc30733d69c6859e46648c4c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "C:\\Games\\Shrek 2 The Game\\Shrek 2\\Animations\\ShrekCharacters\\Ske",
 	"preview": false,
 	"readme": false,

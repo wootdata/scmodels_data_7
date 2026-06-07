@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
@@ -25,15 +25,15 @@
 		{
 			"models": [
 				{
-					"name": "Aviator_Crash",
-					"polys": 616,
-					"verts": 317
+					"name": "Chocobo",
+					"polys": 1032,
+					"verts": 523
 				}
 			],
-			"name": "Aviator_Crash"
+			"name": "body"
 		}
 	],
-	"colorable": false,
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -68,20 +68,76 @@
 			"type": 8
 		}
 	],
-	"date": 1780811526,
+	"date": 1774884924,
 	"events": [
 		{
 			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/crash_bandicoot/crash/jump.wav",
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/bounce.wav",
 			"sequence": 8,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/crash_bandicoot/crash/jump.wav",
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff7/bounce.wav",
 			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff13/waking.wav",
+			"sequence": 41,
 			"type": 0
 		}, 
 		{
@@ -113,31 +169,38 @@
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_SG.txt",
+			"options": "15",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5005,
+			"event": 5011,
 			"frame": 0,
-			"options": "muzzle_MP5.txt",
+			"options": "20",
 			"sequence": 83,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "player/playersounds/FFChocobo/ff13/excited.wav",
+			"sequence": 85,
 			"type": 0
 		}, 
 		{
@@ -265,30 +328,16 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/crash_bandicoot/crash/woah.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/crash_bandicoot/crash/woah.wav",
-			"sequence": 184,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "32352fdf3e222ded54b858a6e67ef6c0",
+	"md5": "578dcc18c89a3fa4e6a459bc7718c727",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 7,
-	"name": "Aviator_Crash.mdl",
+	"name": "FFChocobo_CC_Black.mdl",
 	"preview": true,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -358,7 +407,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 36,
+			"frames": 25,
 			"name": "die_backwards1"
 		}, 
 		{
@@ -423,7 +472,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 2,
+			"frames": 1,
 			"name": "ref_hold_wrench"
 		}, 
 		{
@@ -438,7 +487,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 2,
+			"frames": 1,
 			"name": "crouch_hold_wrench"
 		}, 
 		{
@@ -463,7 +512,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 2,
+			"frames": 1,
 			"name": "ref_hold_gren"
 		}, 
 		{
@@ -488,7 +537,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 2,
+			"frames": 1,
 			"name": "crouch_hold_gren"
 		}, 
 		{
@@ -1197,9 +1246,9 @@
 			"name": "deadtable"
 		}, 
 		{
-			"fps": 10.000000,
-			"frames": 31,
-			"name": "ShannonCaldwell_v1.2"
+			"fps": 48.000000,
+			"frames": 109,
+			"name": "chocobo_spin"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1247,7 +1296,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 1998984,
+	"size": 919656,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1322,68 +1371,20 @@
 			"parent": 16
 		}, 
 		{
-			"name": "Bip01 L Finger0",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 22
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 18
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
-		}, 
-		{
-			"name": "Bip01 R Finger0",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 29
-		}, 
-		{
-			"name": "Bip01 R Finger1",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 32
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -1391,9 +1392,21 @@
 	"textures": [
 		{
 			"flags": 64,
-			"height": 1024,
-			"name": "AviatorCrashTex.bmp",
-			"width": 1024
+			"height": 256,
+			"name": "Remap1_074_189_254.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "Remap2_074_189_254.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 32,
+			"height": 1,
+			"name": "Default.bmp",
+			"width": 4
 		}
 	],
 	"version": 10
